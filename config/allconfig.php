@@ -149,13 +149,13 @@ $AUTHORITY=array(
 	'userbar' => '2',
 );
 $BASIC=array(
-	'SITENAME' => 'NexusPHP',
-	'BASEURL' => 'localhost',
-	'announce_url' => 'localhost/announce.php',
+	'SITENAME' => 'Kebot',
+	'BASEURL' => '127.0.0.1:7980',
+	'announce_url' => '127.0.0.1:7980/announce.php',
 	'mysql_host' => 'localhost',
 	'mysql_user' => 'root',
 	'mysql_pass' => 'nexusphprocks',
-	'mysql_db' => 'nexusphp',
+	'mysql_db' => 'pt',
 );
 $BONUS=array(
 	'donortimes' => '2',
